@@ -1,27 +1,27 @@
 "Naam";"Geboortedatum";"Caps";"Selecties";"Doelpunten";"Speelminuten"
-"Jan Vertonghen";"24-04-1987";110;115;9;9387
-"Axel Witsel";"12-01-1989";99;104;9;8192
+"Jan Vertonghen";"24-04-1987";114;119;9;9747
+"Axel Witsel";"12-01-1989";103;108;9;8552
+"Eden Hazard";"07-01-1991";102;107;30;7316
 "Jan Ceulemans";"28-02-1957";96;99;22;8256
-"Eden Hazard";"07-01-1991";96;101;27;6791
 "Timmy Simons";"11-12-1976";94;114;6;7634
+"Toby Alderweireld";"02-03-1989";92;103;3;7835
+"Vincent Kompany";"10-04-1986";89;92;4;7261
 "Marouane Fellaini";"22-11-1987";87;97;18;6371
-"Toby Alderweireld";"02-03-1989";86;97;3;7295
 "Eric Gerets";"18-05-1954";86;94;3;7460
 "Franky Van der Elst";"30-04-1961";86;93;1;7388
-"Vincent Kompany";"10-04-1986";85;88;4;6919
 "Daniel Van Buyten";"07-02-1978";85;98;10;6983
+"Dries Mertens";"06-05-1987";84;98;17;4703
 "Enzo Scifo";"19-02-1966";84;87;19;6974
 "Mousa Dembélé";"16-07-1987";82;106;5;4779
+"Romelu Lukaku";"13-05-1993";81;93;48;4805
 "Paul Van Himst";"02-10-1943";81;83;30;7038
-"Romelu Lukaku";"13-05-1993";79;91;45;4643
 "Bart Goor";"09-04-1973";78;80;13;6207
-"Dries Mertens";"06-05-1987";78;92;16;4275
 "Georges Grün";"25-01-1962";77;81;6;6485
-"Thomas Vermaelen";"14-11-1985";71;87;1;5586
+"Thibaut Courtois";"11-05-1992";74;87;0;6650
+"Thomas Vermaelen";"14-11-1985";74;91;1;5688
+"Kevin De Bruyne";"28-06-1991";70;76;16;5511
 "Lorenzo Staelens";"30-04-1964";70;82;8;5778
 "Marc Wilmots";"22-02-1969";70;80;29;4947
-"Thibaut Courtois";"11-05-1992";68;81;0;6110
-"Kevin De Bruyne";"28-06-1991";68;74;15;5444
 "Vic Mees";"26-01-1927";68;73;3;5982
 "Georges Heylens";"08-08-1941";67;68;0;5972
 "Jef Jurion";"24-02-1937";64;68;9;5745
@@ -35,12 +35,12 @@
 "Emile Mpenza";"04-07-1978";57;59;19;3890
 "Wilfried Van Moer";"01-03-1945";57;61;9;4294
 "Louis Carré";"07-01-1925";56;58;0;5070
+"Nacer Chadli";"02-08-1989";56;70;6;2968
 "Jef Mermans";"16-02-1922";56;67;28;5022
 "Mbo Mpenza";"04-12-1976";56;66;3;2648
 "Luc Nilis";"25-05-1967";56;60;10;3600
 "Michel Renquin";"03-11-1955";55;62;0;4595
 "Wesley Sonck";"09-08-1978";55;55;24;3495
-"Nacer Chadli";"02-08-1989";54;66;6;2897
 "Danny Boffin";"10-07-1965";53;70;1;3234
 "Raymond Braine";"28-04-1907";52;52;23;4590
 "Steven Defour";"15-04-1988";52;84;2;3477
@@ -72,7 +72,9 @@
 "Alfons Van Brandt";"24-06-1927";38;43;0;3380
 "Paul Van Den Berg";"11-10-1936";38;43;16;3313
 "Marc Emmers";"25-02-1966";37;39;2;2839
+"Thomas Meunier";"12-09-1991";37;42;6;2866
 "Florimond Van Halme";"21-03-1895";37;38;1;3240
+"Yannick Carrasco";"04-09-1993";36;45;5;2122
 "Nico Claesen";"01-10-1962";36;41;12;2732
 "Glen De Boeck";"22-08-1971";36;46;1;2409
 "Johan Walem";"01-02-1972";36;47;2;2648
@@ -82,11 +84,9 @@
 "Luc Millecamps";"10-09-1951";35;35;0;2956
 "Léon Semmeling";"04-01-1940";35;42;2;2899
 "Arnold Badjou";"25-06-1909";34;35;0;2933
-"Christian Benteke";"03-12-1990";34;50;12;1890
+"Christian Benteke";"03-12-1990";34;54;12;1890
 "Jean Capelle";"26-10-1913";34;35;19;3005
-"Yannick Carrasco";"04-09-1993";34;41;5;2100
 "Nicolaas Hoydonckx";"29-12-1900";34;34;0;3060
-"Thomas Meunier";"12-09-1991";34;38;6;2596
 "Jean Thissen";"21-04-1946";34;35;0;2992
 "Eric Van Meir";"28-02-1968";34;58;1;2513
 "Désiré Bastin";"04-03-1900";33;33;7;2970
@@ -115,14 +115,15 @@
 "August Hellemans";"21-06-1907";28;29;0;2520
 "Bruno Versavel";"27-08-1967";28;30;4;2325
 "Walter Baseggio";"19-08-1978";27;31;1;1799
+"Michy Batshuayi";"02-10-1993";26;48;13;1071
 "Bertrand Crasson";"05-10-1971";26;37;1;1769
 "Denis Houf";"16-02-1932";26;29;5;2370
 "Philippe Léonard";"12-02-1974";26;37;0;1588
 "Maurice Martens";"05-06-1947";26;36;2;1847
 "Dirk Medved";"15-09-1968";26;41;0;2009
+"Divock Origi";"18-04-1995";26;48;3;979
 "Stanley Vanden Eynde";"03-10-1909";26;26;9;2284
 "Gilles De Bilde";"09-06-1971";25;27;3;1192
-"Divock Origi";"18-04-1995";25;43;3;979
 "Hugo Broos";"10-04-1952";24;31;0;1972
 "Luigi Pieroni";"08-09-1980";24;28;2;1008
 "Louis Saeys";"26-11-1887";24;24;9;2190
@@ -134,8 +135,11 @@
 "Pierre Dalem";"16-03-1912";23;24;0;2070
 "Robert De Veen";"27-03-1886";23;23;26;2130
 "Johan Devrindt";"14-04-1945";23;29;15;1999
+"Thorgan Hazard";"29-03-1993";23;38;3;1040
+"Simon Mignolet";"06-03-1988";23;95;0;1980
 "Theodoor Nouwens";"17-02-1908";23;23;0;2026
 "André Piters";"18-01-1931";23;24;7;2070
+"Youri Tielemans";"07-05-1997";23;37;1;1315
 "Jan Van Der Auwera";"09-01-1924";23;26;0;2070
 "Laurent Verbiest";"16-04-1939";23;28;0;2027
 "Vital Borkelmans";"01-06-1963";22;35;0;1332
@@ -144,12 +148,10 @@
 "Maurice Gillis";"06-11-1897";22;22;8;1890
 "Carl Hoefkens";"06-10-1978";22;29;1;1426
 "Stan Huysmans";"11-12-1928";22;24;0;2010
-"Simon Mignolet";"06-03-1988";22;89;0;1980
 "Joseph Musch";"12-10-1893";22;22;3;1906
 "Lon Polleunis";"01-05-1943";22;29;10;1716
 "Eddy Voordeckers";"04-02-1960";22;29;4;1398
 "Yves Baré";"28-10-1938";21;28;0;1890
-"Michy Batshuayi";"02-10-1993";21;42;10;759
 "Jean Claessens";"18-06-1908";21;21;0;1820
 "Jan Diddens";"14-09-1906";21;22;2;1800
 "André Fierens";"08-02-1898";21;21;0;1846
@@ -183,13 +185,12 @@
 "François Daenen";"25-08-1919";17;39;0;1460
 "Leopold Gernaey";"25-02-1927";17;27;0;1495
 "Hector Goetinck";"05-03-1886";17;17;2;1530
-"Thorgan Hazard";"29-03-1993";17;32;1;528
 "Gaby Mudingayi";"01-10-1981";17;21;0;1077
 "Jacky Peeters";"13-12-1969";17;27;0;864
 "Branko Strupar";"04-02-1970";17;19;5;964
 "Gill Swerts";"23-09-1982";17;21;1;1310
-"Youri Tielemans";"07-05-1997";17;31;0;854
 "Guy Vandersmissen";"25-12-1957";17;20;0;1170
+"Dedryck Boyata";"28-11-1990";16;31;0;976
 "Fernand Buyle";"03-03-1918";16;16;1;1440
 "Rik Isemborghs";"30-01-1914";16;16;8;1440
 "Marcel Paeschen";"30-04-1937";16;22;4;1396
@@ -211,7 +212,6 @@
 "Henri Van Averbeke";"26-10-1901";14;14;0;1260
 "Louis Bessems";"25-09-1892";13;13;1;1170
 "Roberto Bisconti";"27-07-1973";13;15;0;527
-"Dedryck Boyata";"28-11-1990";13;28;0;706
 "Jean Mathonet";"06-10-1925";13;14;0;1170
 "Fernand Nisot";"11-04-1895";13;14;10;1170
 "Joseph Pannaye";"29-07-1922";13;15;0;1170
@@ -244,6 +244,7 @@
 "Olivier De Cock";"09-11-1975";11;12;0;698
 "Henri De Deken";"03-08-1907";11;12;0;990
 "Georges Hebdin";"19-04-1889";11;12;0;990
+"Adnan Januzaj";"05-02-1995";11;32;1;435
 "Léon Jeck";"09-02-1947";11;15;0;990
 "Constant Joacim";"03-03-1908";11;11;0;990
 "Sandy Martens";"23-12-1973";11;15;3;551
@@ -255,6 +256,7 @@
 "Theo Custers";"10-08-1950";10;29;0;719
 "Tjörven De Brul";"22-06-1973";10;12;0;570
 "Albert De Hert";"18-11-1921";10;13;3;840
+"Jason Denayer";"28-06-1995";10;27;0;653
 "Léon Dolmans";"06-04-1945";10;16;2;844
 "Laurent Grimmonprez";"14-12-1902";10;10;1;900
 "Robert Hustin";"13-10-1886";10;10;0;930
@@ -267,14 +269,12 @@
 "Henri Bierna";"02-09-1905";9;9;2;810
 "Koen Daerden";"08-03-1982";9;14;3;547
 "Igor De Camargo";"12-05-1983";9;15;0;521
-"Jason Denayer";"28-06-1995";9;23;0;647
 "Gaëtan Englebert";"11-06-1976";9;21;0;500
 "Jean Fievez";"30-11-1910";9;10;4;810
 "Jean-François Gillet";"31-05-1979";9;59;0;760
 "Emile Hanse";"10-08-1892";9;9;0;810
 "Paul Henry";"06-09-1912";9;10;0;810
 "Augustin Janssens";"24-09-1930";9;10;1;810
-"Adnan Januzaj";"05-02-1995";9;27;1;386
 "Jules Lavigne";"10-03-1901";9;9;0;810
 "Maarten Martens";"02-07-1984";9;12;0;579
 "Désiré Paternoster";"21-01-1887";9;9;2;840
@@ -290,6 +290,7 @@
 "Fernand Boone";"01-08-1934";8;20;0;720
 "Prosper Braeckman";"25-09-1888";8;8;0;720
 "Adolf De Buck";"01-02-1920";8;16;0;720
+"Leander Dendoncker";"15-04-1995";8;32;0;452
 "Ronald Gaspercic";"09-05-1969";8;15;0;569
 "Joseph Givard";"27-09-1923";8;10;1;720
 "Fernand Goyvaerts";"24-10-1938";8;8;1;720
@@ -332,7 +333,6 @@
 "Jean Bouttiau";"03-09-1889";6;6;1;540
 "Mathieu Bragard";"10-03-1895";6;6;5;540
 "Paul Courant";"10-11-1949";6;9;1;451
-"Leander Dendoncker";"15-04-1995";6;26;0;272
 "René Devos";"26-07-1921";6;6;0;540
 "Olivier Doll";"09-06-1973";6;12;0;245
 "Willy Geurts";"30-01-1954";6;6;1;283
@@ -385,6 +385,7 @@
 "Jonathan Blondel";"03-04-1984";4;4;0;71
 "Mathieu Bollen";"31-12-1928";4;6;2;347
 "Paul Bouttiau";"10-09-1887";4;4;0;390
+"Timothy Castagne";"05-12-1995";4;10;1;299
 "Arthur Ceuleers";"28-02-1916";4;6;2;360
 "Gert Claessens";"21-02-1972";4;6;1;255
 "Michel De Groote";"18-10-1955";4;6;0;316
@@ -456,6 +457,7 @@
 "Frans Peeraer";"15-02-1913";3;3;0;270
 "Frédéric Peiremans";"03-09-1973";3;4;0;211
 "Auguste Pelsmaeker";"15-11-1899";3;4;0;270
+"Dennis Praet";"14-05-1994";3;8;0;59
 "Martin Schroyens";"16-02-1930";3;4;0;270
 "Jacques Secretin";"28-12-1907";3;3;1;270
 "Lucien Spronck";"19-08-1939";3;5;1;270
@@ -480,7 +482,6 @@
 "Nicolas Broeckaert";"23-11-1960";2;4;0;180
 "Mehdi Carcela";"01-07-1989";2;3;0;48
 "Pierre Carteus";"24-09-1943";2;5;0;180
-"Timothy Castagne";"05-12-1995";2;4;0;119
 "Luis Pedro Cavanda";"02-01-1991";2;5;0;72
 "Hans Christiaens";"12-01-1964";2;2;0;110
 "Léon Close";"20-08-1931";2;6;0;180
@@ -514,7 +515,7 @@
 "François Janssens";"25-09-1945";2;9;1;180
 "Nordin Jbari";"05-02-1975";2;2;0;25
 "Louis Joux";"06-02-1888";2;2;0;180
-"Christian Kabasele";"24-02-1991";2;17;0;180
+"Christian Kabasele";"24-02-1991";2;19;0;180
 "Christophe Lauwers";"17-09-1972";2;2;0;75
 "François Ledent";"04-07-1908";2;3;2;180
 "Jonathan Legear";"13-04-1987";2;4;0;101
@@ -530,7 +531,6 @@
 "Joseph Nelis";"01-04-1917";2;3;2;180
 "Guido Nicolaes";"15-07-1950";2;4;0;24
 "Célestin Nollet";"06-02-1894";2;2;0;180
-"Dennis Praet";"14-05-1994";2;3;0;58
 "Emile Reuse";"08-11-1883";2;2;0;210
 "Frans Reyniers";"27-06-1928";2;2;0;180
 "Clément Robyn";"";2;2;0;210
@@ -552,6 +552,7 @@
 "Henri Van Poucke";"09-05-1906";2;2;0;180
 "Michel Van Varenberg";"21-02-1920";2;5;1;138
 "Jeng Van den Bosch";"31-10-1927";2;2;0;210
+"Hans Vanaken";"24-08-1992";2;9;0;50
 "Remy Vandeweyer";"27-07-1928";2;2;1;180
 "Franz Vanhoutte";"14-06-1890";2;2;1;180
 "Louis Verboven";"21-02-1909";2;2;0;180
@@ -649,6 +650,7 @@
 "Auguste Ruyssevelt";"04-11-1896";1;2;0;90
 "Luc Sanders";"06-10-1945";1;11;0;90
 "Davy Schollen";"28-02-1978";1;4;0;45
+"Matz Sels";"26-02-1992";1;17;0;0
 "Eddy Snelders";"09-04-1959";1;2;0;63
 "Karel Snoeckx";"29-10-1973";1;1;0;27
 "Jean Strubbe";"07-12-1887";1;1;0;90
@@ -666,7 +668,6 @@
 "Julien Van Puymbroeck";"18-08-1947";1;1;0;90
 "Julien Van Roosbroeck";"09-10-1935";1;4;0;90
 "Edmond Van Staceghem";"";1;1;1;90
-"Hans Vanaken";"24-08-1992";1;4;0;35
 "Guillaume Vanden Houten";"12-10-1895";1;1;0;90
 "Francky Vandendriessche";"07-04-1971";1;6;0;90
 "Julien Vandierendounck";"12-02-1921";1;1;0;90
@@ -697,7 +698,7 @@
 "Walter Bogaerts";"18-08-1938";0;1;0;0
 "Léon Bosmans";"16-03-1944";0;7;0;0
 "Dante Brogno";"02-05-1966";0;1;0;0
-"Koen Casteels";"25-06-1992";0;31;0;0
+"Koen Casteels";"25-06-1992";0;35;0;0
 "Alexis Chantraine";"16-03-1901";0;1;0;0
 "Roland Coclet";"02-04-1941";0;1;0;0
 "Albert Corbeel";"";0;1;0;0
@@ -730,7 +731,7 @@
 "Guy Léonard";"09-11-1946";0;5;0;0
 "Gilbert Marmenout";"13-12-1945";0;3;0;0
 "Ronny Martens";"22-12-1958";0;5;0;0
-"Brandon Mechele";"28-01-1993";0;1;0;0
+"Brandon Mechele";"28-01-1993";0;5;0;0
 "Mathieu Meyers";"03-12-1934";0;4;0;0
 "Jan Moons";"26-09-1970";0;7;0;0
 "Landry Mulemo";"17-09-1986";0;3;0;0
@@ -740,9 +741,8 @@
 "Didier Quain";"15-12-1960";0;1;0;0
 "Olivier Renard";"24-05-1979";0;11;0;0
 "Robert Roosbeek";"27-03-1942";0;1;0;0
-"Matz Sels";"26-02-1992";0;15;0;0
 "Jozef Smolders";"18-01-1941";0;2;0;0
-"Leandro Trossard";"04-12-1994";0;1;0;0
+"Leandro Trossard";"04-12-1994";0;2;0;0
 "Charles Van Boven";"";0;2;0;0
 "Jules Van Den Driesch";"";0;1;0;0
 "Yves Van Der Straeten";"18-01-1971";0;4;0;0
